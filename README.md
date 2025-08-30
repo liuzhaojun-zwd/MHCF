@@ -26,7 +26,15 @@
 
 ## **Visualizations**
 
+#### Grad-CAM of RGBNT201
+
 ![](./picture/cam.jpg)
+
+
+
+#### T-SNE of RGBNT201.
+
+![](./picture/MHCF-tsne.jpg)
 
 ------
 
