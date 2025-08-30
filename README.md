@@ -1,6 +1,6 @@
 # Heat Conduction Operator for Alleviating Modal Bias in Multi-modal Object Re-identification
 
-![](.\picture\MHCF.jpg)
+![](./picture/MHCF.jpg)
 
 ------
 
@@ -14,11 +14,11 @@
 
 #### Multi-Modal Person ReID [RGBNT201 & Market-MM]
 
-![](.\picture\person_result.png)
+![](./picture/person_result.png)
 
 #### Multi-Modal Vehicle ReID [RGBNT100 & MSVR310]
 
-![](.\picture\vehicle_result.png)
+![](./picture/vehicle_result.png)
 
 ------
 
@@ -26,7 +26,7 @@
 
 ## **Visualizations**
 
-![](.\picture\cam.jpg)
+![](./picture/cam.jpg)
 
 ------
 
